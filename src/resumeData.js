@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: 'https://ivy555.github.io/',
   name: 'Joe Riley',
-  role: 'Full Satck Developer',
+  role: 'Full Stack Developer',
   linkedinId: 'mrjosephriley',
   roleDescription:
     'I like to learn and create applications in various parts of software development and like to learn about new technologies, automate the boring stuff or play games in my free time.',
