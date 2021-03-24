@@ -211,7 +211,7 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 50%; padding: auto; margin: 0 auto;}
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
@@ -440,6 +440,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
+   max-height: 150px;
 }
 
 /* overlay */

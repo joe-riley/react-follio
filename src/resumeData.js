@@ -23,13 +23,13 @@ let resumeData = {
     },
   ],
   aboutme:
-    'I am currently a QA Automation Web Engineer ever expanding my knowledge of all things Internet. I am a self taught coder with help from certifications, mentors, DuckDuckGo and my brain. Marcus Aurelius said "The Universe is change; outlife is what our thoughts make it."- and no, I don\'t think we are living in a simulation.',
+    'I am currently a QA Automation Web Engineer ever expanding my knowledge of all things Internet. I am a self taught coder with help from certifications, mentors, DuckDuckGo and my brain. Marcus Aurelius said "The Universe is change; our life is what our thoughts make it."- and no, I don\'t think we are living in a simulation.',
   address: 'Tucson AZ',
   website: 'https://github.com/joe-riley',
   work: [
     {
-      CompanyName: 'Some Company',
-      specialization: 'Some specialization',
+      CompanyName: 'I Am Not Filling This In Yet',
+      specialization: 'Concern About Web Scrapers',
       MonthOfLeaving: 'Jan',
       YearOfLeaving: '2018',
       Achievements: 'Some Achievements',
@@ -61,19 +61,29 @@ let resumeData = {
       imgurl: 'images/portfolio/Colaborate.png',
     },
     {
-      name: 'project2',
-      description: 'mobileapp',
-      imgurl: 'images/portfolio/project.jpg',
-    },
-    {
       name: 'Employee Tracker',
       description: 'CLI Tool',
       imgurl: 'images/portfolio/employeetracker.png',
     },
     {
-      name: 'project4',
-      description: 'mobileapp',
-      imgurl: 'images/portfolio/phone.jpg',
+      name: 'Food Fest',
+      description: 'Fixing What\'s there',
+      imgurl: 'images/portfolio/foodfest.png',
+    },
+    {
+      name: 'Code Quiz',
+      description: 'Online Quiz',
+      imgurl: 'images/portfolio/codequiz.png',
+    },
+    {
+      name: 'Jokinator',
+      description: 'From the future to tweet your jokes',
+      imgurl: 'images/portfolio/jokinator.png',
+    },
+    {
+      name: 'Run Budy',
+      description: 'Find a Running Trainer',
+      imgurl: 'images/portfolio/runbuddy.png',
     },
   ],
   testimonials: [
