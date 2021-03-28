@@ -56,6 +56,11 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: 'Choose Fitness',
+      description: 'A minimal workout tracker',
+      imgurl: 'images/portfolio/chooseFitness.png',
+    },
+    {
       name: 'Collaborate',
       description: 'Online Whiteboard',
       imgurl: 'images/portfolio/Colaborate.png',
