@@ -58,7 +58,7 @@ let resumeData = {
     {
       name: 'Choose Fitness',
       description: 'A minimal workout tracker',
-      imgurl: 'images/portfolio/chooseFitness.png',
+      imgurl: 'images/portfolio/choosefitness.png',
     },
     {
       name: 'Collaborate',
